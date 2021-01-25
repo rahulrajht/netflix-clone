@@ -21,6 +21,7 @@ function Nav(){
             <img 
                 className="nav_logo"
                 src = "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png"
+                alt = "NETFLIX"
            />
         </div>
     )
